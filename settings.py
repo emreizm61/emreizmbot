@@ -1,4 +1,4 @@
 settings = {
     "prefix": ">",
-    "TOKEN": "TOKENİNİZ"
+    "TOKEN": "TOKEN kardeşimmm"
 }
